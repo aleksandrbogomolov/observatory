@@ -10,5 +10,4 @@ object Grading {
     * in the project!
     */
   val milestone: Int = 1
-
 }

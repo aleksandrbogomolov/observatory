@@ -11,4 +11,3 @@ class CapstoneSuite
     with ManipulationTest
     with Visualization2Test
     with Interaction2Test
-
